@@ -1,0 +1,9 @@
+{
+  "name": "Dragon Balls",
+  "version": 3,
+  "description": "This mod adds items,characters, and npc's into your game!",
+  "author": "Jay",
+  "license": "GPLv3",
+  "gameplay_mod": true,
+  "min_cpd_version": 9
+}
